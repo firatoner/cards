@@ -1,0 +1,19 @@
+.image.is-square img {
+  height: 200px;
+}
+.image.is-4by3 img {
+  height: 200px !important;
+}
+.image.is-4by3 {
+  padding-top: 200px !important;
+}
+.columns.is-variable {
+  margin-left: 100px;
+  margin-right: 100px;
+  padding-left: 100px;
+  padding-right: 100px;
+}
+
+.maintitle {
+  margin-left: 10px;
+}
